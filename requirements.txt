@@ -1,4 +1,4 @@
-Django==2.0.2
+Django==2.2.10
 elasticsearch==6.1.1
 elasticsearch-dsl==6.1.0
 ipaddress==1.0.19
